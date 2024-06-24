@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        santoshi: ["Santoshi", "sans-serif"],
+        santoshi: ["Satoshi", "sans-serif"],
       },
       boxShadow: {
         shadow_1: "rgba(0, 0, 0, 0.35) 0px 5px 15px;",
